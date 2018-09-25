@@ -1,0 +1,15 @@
+C:\Users\daniel.gorne\source\repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\daniel.gorne\source\repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\daniel.gorne\source\repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\daniel.gorne\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\daniel.gorne\source\repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\daniel.gorne\source\repos\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\daniel.gorne\source\repos\Demo\Demo\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\daniel.gorne\source\repos\Demo\Demo\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\daniel.gorne\source\repos\Demo\Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.gorne\source\repos\Demo\Demo\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\daniel.gorne\source\repos\Demo\Demo\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\daniel.gorne\source\repos\Demo\Demo\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\daniel.gorne\source\repos\Demo\Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daniel.gorne\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\daniel.gorne\source\repos\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
